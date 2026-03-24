@@ -10,7 +10,7 @@ void merge(int theArray[], int first, int mid, int last) {
     int first2 = mid + 1;
     int last2 = last;
     int index = first1;
-
+ 
     // trộn hai mảng con
     for (; (first1 <= last1) && (first2 <= last2); ++index) {
         if (theArray[first1] < theArray[first2]) {
