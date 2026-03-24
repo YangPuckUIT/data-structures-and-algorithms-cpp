@@ -13,7 +13,7 @@ void insertion_sort(int arr[], int size) {
         arr[j] = tmp;  // chèn tmp vào vị trí đúng
     }
 }
- 
+  
 
 int main () {
     int size;
