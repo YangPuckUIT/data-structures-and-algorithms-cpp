@@ -28,7 +28,7 @@ Node* Find(Node* root, int value) {
 }
 
 int main() {
-    // Tạo cây mẫu
+    // Tạo cây mẫu 
     Node* root = CreateNode(1);
     root->Left = CreateNode(2);
     root->Right = CreateNode(3);
