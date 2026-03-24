@@ -5,7 +5,7 @@ using namespace std;
 void bubble_sort(int a[], int n) {
     bool sorted = false;
     int last = n - 1;
-    for (int i = 0; (i < last) && !sorted; i++) {
+    for (int i = 0; (i < last) && !sorted; i++) { 
         sorted = true;
         for (int j = last; j > i; j--) {
             if (a[j-1] > a[j]) {
