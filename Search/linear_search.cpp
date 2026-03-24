@@ -9,7 +9,7 @@ int linear(int arr[], int target, int size) {  //Hàm linear search là tìm t�
         }
     } 
 return -1; // index =-1 là ko tìm thấy gt
-}
+} 
 
 int main () {
     int size,target;
