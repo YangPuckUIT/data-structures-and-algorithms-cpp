@@ -11,7 +11,7 @@ void doi (int &ptu1, int &ptu2) {
 void selection_sort (int arr[], int size) {   //nó lấy gt đầu làm min, và cho j chạy từ phần tử tiếp -> hết và so sánh, nếu gt chạy đến nhỏ hơn min thì đổi chỗ 2 phân tử đó
     for (int i=0; i<size-1; i++) {
         int min=i;
-            for (int j=i+1; j<size; j++) {
+            for (int j=i+1; j<size; j++) { 
                 if (arr[min] > arr[j]) {
                     min=j;
                 }
