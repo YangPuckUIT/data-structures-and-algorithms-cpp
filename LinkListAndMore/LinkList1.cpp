@@ -11,7 +11,7 @@ struct Node
 struct List 
 {
     Node* pHead = nullptr;
-    Node* pTail = nullptr;
+    Node* pTail = nullptr; 
 };
 
 void addHead (List& l, Node* p) 
