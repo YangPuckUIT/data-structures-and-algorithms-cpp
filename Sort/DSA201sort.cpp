@@ -70,7 +70,7 @@ int main() {
     int a[] = {5, 2, 9, 1, 3};
     int b[] = {5, 2, 9, 1, 3};
     int n = 5;
-
+ 
     MergeSort(a, 0, n - 1);
     QuickSort(b, 0, n - 1);
 
