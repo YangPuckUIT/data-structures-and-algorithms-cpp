@@ -22,7 +22,7 @@ Node* initNode (int value)
     return p;
 }
 
-// b3   link-list, hashtable thì quản lý head và tail còn tree thfi chỉ quản lý root
+// b3   link-list, hashtable quản lý head và tail còn tree thfi chỉ quản lý root 
 struct Tree
 {
     Node* pRoot;
