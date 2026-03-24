@@ -9,7 +9,7 @@ int ordered_linear(int arr[], int target, int size) {  // mảng đã đc SẮP 
         }
     else if (arr[i] == target) {
             return i;
-        }
+        } 
     }
         return -1; //index=-1 là ko tìm thấy
 }
