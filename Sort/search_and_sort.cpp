@@ -13,7 +13,7 @@ void print_array(int arr[], int n) {
 void copy_array(int src[], int dest[], int n) {
     for (int i = 0; i < n; i++)
         dest[i] = src[i];
-}
+} 
 
 // CÁC THUẬT TOÁN SẮP XẾP
 
