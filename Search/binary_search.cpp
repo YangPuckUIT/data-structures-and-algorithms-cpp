@@ -1,5 +1,5 @@
 #include <iostream>
-
+ 
 using namespace std;
 
 int binary_search(int arr[], int size, int value) { //tìm giá trị trên mảng đã sắp xếp, nó lấy mốc ở giữa, nếu GT cần tìm nhỏ hơn mốc thì lấy trái bỏ phải (ngược lại)
