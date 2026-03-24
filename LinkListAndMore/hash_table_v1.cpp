@@ -16,7 +16,7 @@ Node* initNode (int value)
     return p;
 }
 
-struct Bucket   //giống list khác tên
+struct Bucket   //giống list khác tên 
 {
     Node* pHead;
     Node* pTail;
