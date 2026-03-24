@@ -20,7 +20,7 @@ struct Stack
 {
     Node* pTop = nullptr; // khỏi initStack gộp lại cho gọn
 };
-
+ 
 void push (Stack &s, int n) 
 {
     Node* p = new Node;
