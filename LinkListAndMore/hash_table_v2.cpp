@@ -17,7 +17,7 @@ Node* initNode (int value)
     return p;
 }
 
-// tạo và init bucket lồng ghép vô hashtable luôn
+// tạo và init bucket lồng ghép vô hashtable luôn 
 const int Size = 5;
 struct HashTable
 {
