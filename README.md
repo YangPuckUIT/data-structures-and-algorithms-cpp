@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains a collection of Data Structures and Algorithms (DSA) exercises written in **C++**. It is mainly used for learning, practicing, and reviewing basic DSA concepts that are often required in school and coding tests.
+This repository contains a collection of Data Structures and Algorithms (DSA) exercises for the **CS4343.Q11.CTTT** course, written in **C++**. It is mainly used for learning, practicing, and reviewing basic DSA concepts that are often required in school and coding tests.
 
 The repository includes:
 
 * Basic data structures: Linked List, Stack, Hash Table, Binary Tree, etc.
 * Algorithm topics: Searching and Sorting
-* Lab assignments (Lab 1 → Lab 6)
+* Lab assignments (Lab 1 -> Lab 6)
 * Extra practice code
 
 ---
