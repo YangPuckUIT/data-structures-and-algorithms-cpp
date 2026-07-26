@@ -1,4 +1,4 @@
-# DSA-Cpp
+# dsa-cpp
 
 ## Overview
 
@@ -25,7 +25,7 @@ The repository includes:
 ## Repository Structure
 
 ```
-DSA-Repo/
+dsa-cpp/
 │
 ├── LAB/
 │   ├── Lab1/
