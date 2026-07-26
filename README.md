@@ -1,4 +1,4 @@
-# dsa-cpp
+# Data Structures And Algorithms (C++)
 
 ## Overview
 
@@ -25,7 +25,7 @@ The repository includes:
 ## Repository Structure
 
 ```
-dsa-cpp/
+data-structures-and-algorithms-cpp/
 │
 ├── LAB/
 │   ├── Lab1/
