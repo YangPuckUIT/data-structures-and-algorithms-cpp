@@ -13,15 +13,6 @@ The repository includes:
 
 ---
 
-## Purpose
-
-* Practice and understand DSA concepts better
-* Prepare for exams and coding exercises
-* Store lab work and reports
-* Keep simple C++ implementations for reference
-
----
-
 ## Repository Structure
 
 ```
@@ -44,56 +35,6 @@ data-structures-and-algorithms-cpp/
 │
 └── README.md
 ```
-
----
-
-## LAB Section
-
-The `LAB` folder contains assignments from **Lab 1 to Lab 6**.
-
-Each lab includes:
-
-* `docs/`: PDF files with requirements or reports
-* `src/`: C++ code for the lab
-
-These labs are mainly used for studying, doing assignments, and reviewing.
-
----
-
-## Practice Sections
-
-### LinkListAndMore
-
-Contains practice code for:
-
-* Linked Lists
-* Stack
-* Binary Tree
-* Etc.
-
-> Note: This code is mainly for practice, so it may not be complete or well organized.
-
----
-
-### Search
-
-Contains simple searching algorithms such as:
-
-* Linear Search
-* Binary Search
-
----
-
-### Sort
-
-Contains sorting algorithms such as:
-
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Other sorting methods
-
----
 
 ## Notes
 
