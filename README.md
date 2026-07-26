@@ -1,6 +1,8 @@
 # Data Structures And Algorithms (C++)
 
 >Course Code: CS4343.Q11.CTTT, written in C++
+---
+
 
 The repository includes:
 
